@@ -1,0 +1,37 @@
+#built-in-themes {
+	overflow: hidden;
+	clear: both;
+}
+
+.built-in-theme {
+	width: 100px;
+	float: left;
+	text-align: center;
+	margin: 6px;
+	padding: 7px;
+}
+
+.built-in-theme:hover {
+	border: 1px solid #EEE;
+	background: aliceblue;
+	border-radius: 3px;
+	padding: 6px;
+	cursor: pointer;
+}
+
+.built-in-theme ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	clear: both;
+}
+
+.built-in-theme ul li {
+	float: left;
+	padding: 0;
+	margin: 0;
+	height: 10px;
+	width: 20%;
+	text-align: center;
+}
+

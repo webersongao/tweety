@@ -1,2 +1,2 @@
 # tweety
-Wordpress Theme： Tweety
+Wordpress Theme： Hostucan-Tweety

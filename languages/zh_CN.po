@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HostUCan Tweety\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-07 11:19+0800\n"
+"PO-Revision-Date: 2011-09-07 11:19+0800\n"
+"Last-Translator: pnuts <i@pnuts.cc>\n"
+"Language-Team: Racent <pnuts.zhao@racent.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:14
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "按日归档的博客：<span>%s</span>"
+
+#: archive.php:16
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "按月归档的博客：<span>%s</span>"
+
+#: archive.php:18
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "按年归档的博客：<span>%s</span>"
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr "归档博客"
+
+#: author.php:19
+#, php-format
+msgid "Author Archives: %s"
+msgstr "按作者归档的博客：%s"
+
+#: category.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr "按分类归档的博客：%s"
+
+#: color-scheme.php:17
+msgid "Hostucan Tweety Config"
+msgstr "主题设置"
+
+#: color-scheme.php:17
+msgid "Theme Config"
+msgstr "主题设置"
+
+#: color-scheme.php:24
+msgid " Color Scheme"
+msgstr "色彩搭配"
+
+#: color-scheme.php:30
+msgid "Built-In Themes"
+msgstr "内置的主题"
+
+#: color-scheme.php:32
+msgid "Customize Colors"
+msgstr "自定义颜色"
+
+#: color-scheme.php:36
+msgid "Background Color:"
+msgstr "背景颜色："
+
+#: color-scheme.php:41
+msgid "Text Color:"
+msgstr "文本颜色："
+
+#: color-scheme.php:45
+msgid "Links Color:"
+msgstr "链接颜色："
+
+#: color-scheme.php:50
+msgid "Sidebar Color:"
+msgstr "边栏颜色："
+
+#: color-scheme.php:55
+msgid "Sidebar Border Color:"
+msgstr "边栏边框颜色："
+
+#: color-scheme.php:60
+msgid "Right Pane Display Animation"
+msgstr "面板弹出的动画："
+
+#: color-scheme.php:63
+msgid "No Animation"
+msgstr "不需要动画"
+
+#: color-scheme.php:64
+msgid "Slide Right (Twitter Style)"
+msgstr "向右滑出"
+
+#: color-scheme.php:65
+msgid "Fade"
+msgstr "渐显/隐"
+
+#: color-scheme.php:77
+msgid "Save Options"
+msgstr "保存配置"
+
+#: comments.php:20
+#, php-format
+msgid "One Response to %2$s"
+msgstr "%2$s 有一个回应。"
+
+#: comments.php:26
+#: comments.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 先前的评论"
+
+#: comments.php:27
+#: comments.php:40
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新的评论 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:18
+msgid "Primary Navigation"
+msgstr "导航"
+
+#: functions.php:84
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">说到:</span>"
+
+#: functions.php:96
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: functions.php:96
+#: functions.php:111
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: functions.php:165
+#, php-format
+msgid "%1$s <span class=\"meta-sep\">by</span> %2$s"
+msgstr "%1$s <span class=\"meta-sep\">由</span> %2$s"
+
+#: functions.php:186
+msgid "Tags:"
+msgstr "标签："
+
+#: functions.php:192
+msgid "Categories:"
+msgstr "分类："
+
+#: functions.php:205
+msgid "Start Menu"
+msgstr "菜单"
+
+#: functions.php:209
+msgid "Login"
+msgstr "登陆"
+
+#: functions.php:213
+msgid "Visit HostUCan"
+msgstr "访问主机点评网"
+
+#: header.php:23
+#, php-format
+msgid "Page %s"
+msgstr "页码 %s"
+
+#: loop-attachment.php:4
+#, php-format
+msgid "Return to %s"
+msgstr "返回到 %s"
+
+#: loop-attachment.php:6
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: loop-attachment.php:15
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">由</span> %2$s"
+
+#: loop-attachment.php:26
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">发表</span> %2$s"
+
+#: loop-attachment.php:36
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "原始尺寸： %s 像素"
+
+#: loop-attachment.php:39
+msgid "Link to full-size image"
+msgstr "查看原图"
+
+#: loop-attachment.php:46
+#: loop-page.php:9
+#: loop-single.php:9
+#: loop.php:41
+msgid "Edit"
+msgstr "编辑"
+
+#: loop-attachment.php:85
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "阅读全文 <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop-attachment.php:86
+#: loop-page.php:13
+#: loop-single.php:14
+msgid "Pages:"
+msgstr "页码："
+
+#: loop.php:37
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: loop.php:40
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: loop.php:40
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: loop.php:40
+msgid "% Comments"
+msgstr "条评论"
+
+#: loop.php:56
+msgid "<span class=\"meta-nav\">&#x00ab;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&#x00ab;</span> 先前的博客"
+
+#: loop.php:57
+msgid "Newer posts <span class=\"meta-nav\">&#x00bb;</span>"
+msgstr "较新的博客 <span class=\"meta-nav\">&#x00bb;</span>"
+
+#: sidebar.php:11
+#: sidebar.php:52
+msgid "http://www.hostucan.com/"
+msgstr "http://www.hostucan.cn/"
+
+#: sidebar.php:11
+msgid "@HostUCan"
+msgstr "主机点评网"
+
+#: sidebar.php:13
+msgid "A Next Generation Web Hosting Search And Review Platform"
+msgstr "主机点评网帮助你寻找最适合你的虚拟主机解决方案。"
+
+#: sidebar.php:14
+msgid "(To change this area, put a widget at Dashboard Top Area.)"
+msgstr "(请在小工具菜单配置这部分内容)"
+
+#: sidebar.php:15
+msgid "(To change default thumbnail for post, add a featured image for each post.)"
+msgstr "(若要更改每篇文章的缩略图，请在文章编辑界面添加“特色图片”。)"
+
+#: sidebar.php:52
+msgid "Powered by"
+msgstr "Powered by"
+
+#: sidebar.php:52
+msgid "Find Best Web Hosting With HostUCan"
+msgstr "用主机点评网寻找适合你的最佳虚拟主机解决方案。"
+
+#: sidebar.php:52
+msgid "hostucan"
+msgstr "主机点评网"
+
+#: tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "按标签归档的博客: %s"
+
+#~ msgid "%s"
+#~ msgstr "%s"
